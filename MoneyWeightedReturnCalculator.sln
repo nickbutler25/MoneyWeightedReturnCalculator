@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWR.ConsoleApp", "MoneyWeightedReturnCalculator\MWR.ConsoleApp.csproj", "{A9290A93-69B1-48D6-9E78-F03C26302EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWR.Core", "MWR.Core\MWR.Core.csproj", "{B31E8428-9304-4727-A8E4-AD9CCCF52D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9290A93-69B1-48D6-9E78-F03C26302EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9290A93-69B1-48D6-9E78-F03C26302EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9290A93-69B1-48D6-9E78-F03C26302EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9290A93-69B1-48D6-9E78-F03C26302EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31E8428-9304-4727-A8E4-AD9CCCF52D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31E8428-9304-4727-A8E4-AD9CCCF52D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31E8428-9304-4727-A8E4-AD9CCCF52D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31E8428-9304-4727-A8E4-AD9CCCF52D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA8E929-2259-40FB-BED3-7E49DBC8354C}
+	EndGlobalSection
+EndGlobal
